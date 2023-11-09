@@ -347,3 +347,7 @@ lib
 
 # bsp
 .bsp/
+
+.bloop/
+.metals/
+.vscode/
