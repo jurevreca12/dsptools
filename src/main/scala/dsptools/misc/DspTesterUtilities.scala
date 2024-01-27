@@ -2,11 +2,10 @@
 
 package dsptools.misc
 
-import chisel3.{fromDoubleToLiteral => _, fromIntToBinaryPoint => _, _}
 import fixedpoint._
 import dsptools.DspException
 import dsptools.numbers.{DspComplex, DspReal}
-import chisel3.InstanceId
+import chisel3._
 
 //scalastyle:off cyclomatic.complexity method.length
 object DspTesterUtilities {
