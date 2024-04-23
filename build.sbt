@@ -6,7 +6,7 @@ enablePlugins(GhpagesPlugin)
 
 val defaultVersions = Map(
   "chisel" -> "5.0.0",
-  "chiseltest" -> "5.0.0"
+  "chiseltest" -> "5.0.2"
 )
 
 name := "dsptools"
